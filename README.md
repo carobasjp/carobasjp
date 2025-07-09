@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá, eu sou Vitor Caroba
+# 👋 Hello, I'm Vitor Caroba
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
 
@@ -10,19 +10,19 @@
 
 <div align="center">
   
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 </div>
 
 ```typescript
 const vitorCaroba = {
     role: "Senior Software Engineer",
-    location: "Brasil 🇧🇷",
+    location: "Brazil 🇧🇷",
     currentFocus: "AI-Powered Defense Systems",
     languages: ["JavaScript", "TypeScript", "Python", "C++"],
     askMeAbout: ["React", "Node.js", "AI/ML", "System Architecture"],
     currentlyLearning: ["Advanced AI", "Cloud Architecture", "DevOps"],
-    funFact: "Desenvolvendo sistemas de defesa aérea com IA! ✈️"
+    funFact: "Developing AI-powered air defense systems! ✈️"
 };
 ```
 
@@ -30,7 +30,7 @@ const vitorCaroba = {
 
 <div align="center">
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Tech Arsenal
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vue,sass" />
@@ -56,71 +56,71 @@ const vitorCaroba = {
 
 <div align="center">
 
-## 🎮 Jogue Comigo! - Jogo da Velha Interativo
+## 🎮 Play with Me! - Interactive Tic-Tac-Toe
 
-**Clique nos quadrados para jogar! Você é ❌, eu sou ⭕**
+**Click on the squares to play! You are ❌, I am ⭕**
 
 <table>
 <tr>
 <td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 1">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=1" />
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 1">
+<img src="https://img.shields.io/badge/1-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
 </a>
 </td>
 <td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 2">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=2" />
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 2">
+<img src="https://img.shields.io/badge/2-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
 </a>
 </td>
 <td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 3">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=3" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 4">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=4" />
-</a>
-</td>
-<td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 5">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=5" />
-</a>
-</td>
-<td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 6">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=6" />
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 3">
+<img src="https://img.shields.io/badge/3-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 7">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=7" />
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 4">
+<img src="https://img.shields.io/badge/4-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
 </a>
 </td>
 <td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 8">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=8" />
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 5">
+<img src="https://img.shields.io/badge/5-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
 </a>
 </td>
 <td align="center" width="100" height="100">
-<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 9">
-<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=9" />
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 6">
+<img src="https://img.shields.io/badge/6-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 7">
+<img src="https://img.shields.io/badge/7-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 8">
+<img src="https://img.shields.io/badge/8-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Move&body=Position: 9">
+<img src="https://img.shields.io/badge/9-Click%20to%20Play-blue?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=0D1117" width="80" height="80" />
 </a>
 </td>
 </tr>
 </table>
 
-**🎯 Como Jogar:**
-1. Clique em qualquer quadrado numerado
-2. Isso abrirá uma issue no GitHub
-3. Eu responderei com minha jogada!
-4. Vamos ver quem ganha! 🏆
+**🎯 How to Play:**
+1. Click on any numbered square
+2. This will open a GitHub issue
+3. I'll respond with my move!
+4. Let's see who wins! 🏆
 
-**📊 Placar Atual:** Você: 0️⃣ | Vitor: 0️⃣ | Empates: 0️⃣
+**📊 Current Score:** You: 0️⃣ | Vitor: 0️⃣ | Draws: 0️⃣
 
 </div>
 
@@ -128,7 +128,7 @@ const vitorCaroba = {
 
 <div align="center">
 
-## 🎯 Projetos em Destaque
+## 🎯 Featured Projects
 
 </div>
 
@@ -136,32 +136,32 @@ const vitorCaroba = {
 const featuredProjects = [
     {
         name: "🛡️ AI Defense System",
-        description: "Sistema de defesa aérea com IA avançada",
+        description: "Advanced AI-powered air defense system",
         tech: ["Python", "TensorFlow", "Computer Vision"],
-        status: "🚧 Em Desenvolvimento"
+        status: "🚧 In Development"
     },
     {
         name: "🌐 Full Stack Platform",
-        description: "Plataforma completa com React e Node.js",
+        description: "Complete platform with React and Node.js",
         tech: ["React", "Node.js", "PostgreSQL", "Docker"],
-        status: "✅ Produção"
+        status: "✅ Production"
     },
     {
         name: "🤖 ML Model Trainer",
-        description: "Ferramenta para treinar modelos de ML",
+        description: "Tool for training machine learning models",
         tech: ["Python", "PyTorch", "FastAPI"],
-        status: "🔄 Atualizando"
+        status: "🔄 Updating"
     }
 ];
 
-console.log("Projetos carregados com sucesso! 🚀");
+console.log("Projects loaded successfully! 🚀");
 ```
 
 ---
 
 <div align="center">
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
 <a href="https://linkedin.com/in/vitorcaroba">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -182,21 +182,21 @@ console.log("Projetos carregados com sucesso! 🚀");
 
 <div align="center">
 
-## 💡 Curiosidades sobre Programação
+## 💡 Programming Fun Facts
 
 <details>
-<summary>🧠 Clique para ver uma curiosidade aleatória!</summary>
+<summary>🧠 Click to see a random fun fact!</summary>
 
 <br>
 
-**💭 Você sabia?**
+**💭 Did you know?**
 
-O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper encontrou uma mariposa presa em um relé do computador Harvard Mark II. Ela colou o inseto no livro de registros com a nota: "First actual case of bug being found" (Primeiro caso real de bug sendo encontrado).
+The first computer "bug" was literally an insect! In 1947, Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer. She taped the insect to the logbook with the note: "First actual case of bug being found."
 
-**🔍 Fato Técnico:**
-- O JavaScript foi criado em apenas 10 dias por Brendan Eich em 1995
-- Python foi nomeado em homenagem ao grupo de comédia "Monty Python"
-- O primeiro código "Hello, World!" apareceu em 1972 no livro "The C Programming Language"
+**🔍 Tech Facts:**
+- JavaScript was created in just 10 days by Brendan Eich in 1995
+- Python was named after the comedy group "Monty Python"
+- The first "Hello, World!" code appeared in 1972 in "The C Programming Language" book
 
 </details>
 
@@ -206,7 +206,7 @@ O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper
 
 <div align="center">
 
-## 💭 Citação Inspiradora
+## 💭 Inspirational Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
@@ -216,7 +216,7 @@ O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper
 
 <div align="center">
 
-## 🎨 Arte ASCII do Dia
+## 🎨 ASCII Art of the Day
 
 ```
     ╔══════════════════════════════════════╗
@@ -231,7 +231,7 @@ O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper
     ║     └─────────────────────────┘      ║
     ║                                      ║
     ║  🚀 Building the future, one        ║
-    ║     line of code at a time!         ║
+    ║     line of code at a time!          ║
     ╚══════════════════════════════════════╝
 ```
 
@@ -241,7 +241,7 @@ O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper
 
 <div align="center">
 
-### 📊 Visualizações do Perfil
+### 📊 Profile Views
 <img src="https://komarev.com/ghpvc/?username=carobasjp&style=for-the-badge&color=0e75b6" />
 
 ### ⚡ Powered by
@@ -254,10 +254,10 @@ O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper
 
 <div align="center">
   
-*"O código é como o humor. Quando você tem que explicá-lo, é ruim."* - Cory House
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-**🚀 Sempre em busca de novos desafios e oportunidades de colaboração!**
+**🚀 Always looking for new challenges and collaboration opportunities!**
 
-**🎮 Não esqueça de jogar o jogo da velha acima! Vamos ver quem é melhor! 😄**
+**🎮 Don't forget to play the tic-tac-toe game above! Let's see who's better! 😄**
 
 </div>
