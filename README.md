@@ -56,12 +56,27 @@ const vitorCaroba = {
 
 <div align="center">
 
-## 📊 Estatísticas GitHub
+## 📊 Performance Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=carobasjp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=carobasjp&theme=tokyonight&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+**📈 Estatísticas Gerais**
+<img src="https://github-readme-stats.vercel.app/api?username=carobasjp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+</td>
+<td width="50%">
+
+**🔥 Sequência de Commits**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=carobasjp&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+**💻 Linguagens Mais Utilizadas**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -69,9 +84,26 @@ const vitorCaroba = {
 
 <div align="center">
 
-## 🏆 Conquistas GitHub
+## 🎯 Métricas de Desenvolvimento
 
-<img src="https://github-profile-trophy.vercel.app/?username=carobasjp&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carobasjp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
+</div>
+
+### 📊 Contribuições Detalhadas
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carobasjp&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribuição%20nos%20Últimos%20Meses" />
+
+### 🏅 Conquistas & Marcos
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/carobasjp?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)
+![GitHub User's stars](https://img.shields.io/github/stars/carobasjp?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)
+![Years Badge](https://badges.pufler.dev/years/carobasjp?style=for-the-badge&color=0e75b6)
+![Repos Badge](https://badges.pufler.dev/repos/carobasjp?style=for-the-badge&color=0e75b6)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/carobasjp?style=for-the-badge&color=0e75b6)
+
+</div>
 
 </div>
 
@@ -92,15 +124,6 @@ const vitorCaroba = {
 
 ---
 
-<div align="center">
-
-## 📈 Atividade de Contribuição
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carobasjp&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
 
 <div align="center">
 
