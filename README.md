@@ -1,101 +1,155 @@
-# Hi there, I'm Vitor Caroba 👋
-
-## Software Engineer & Full Stack Developer
-
-I'm a passionate software engineer with expertise in modern web technologies and AI systems. Currently working on innovative projects that bridge the gap between cutting-edge technology and real-world applications.
-
-### 🚀 What I'm Working On
-- **AI-Powered Defense Systems**: Developing an advanced air defense system for my scientific research
-- **Full Stack Applications**: Building scalable web applications with modern frameworks
-- **Open Source Contributions**: Contributing to projects that leverage artificial intelligence
-
-### 🤝 Let's Collaborate
-I'm always interested in collaborating on:
-- AI/ML projects and research
-- Full stack web applications
-- Open source initiatives
-- Technical writing and knowledge sharing
-
----
-
-## 🛠️ Technology Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carobasjp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</div>
+  
+# 👋 Olá, eu sou Vitor Caroba
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carobasjp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carobasjp&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🌐 Connect With Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorcaroba)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@caroba_vitor)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitorcaroba1)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Caroba_01#6990)
+## 🚀 Sobre Mim
+
+</div>
+
+```typescript
+const vitorCaroba = {
+    role: "Senior Software Engineer",
+    location: "Brasil 🇧🇷",
+    currentFocus: "AI-Powered Defense Systems",
+    languages: ["JavaScript", "TypeScript", "Python", "C++"],
+    askMeAbout: ["React", "Node.js", "AI/ML", "System Architecture"],
+    currentlyLearning: ["Advanced AI", "Cloud Architecture", "DevOps"],
+    funFact: "Desenvolvendo sistemas de defesa aérea com IA! ✈️"
+};
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Arsenal Tecnológico
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vue,sass" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,postgresql,mongodb,redis,mysql" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,netlify,github,git" />
+
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+### Tools & Environment
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux,windows" />
 
 </div>
 
 ---
 
-## 💡 Daily Inspiration
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
+
+## 📊 Estatísticas GitHub
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=carobasjp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=carobasjp&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=carobasjp&icon=2&color=6" alt="Profile Views" />
+
+## 🏆 Conquistas GitHub
+
+<img src="https://github-profile-trophy.vercel.app/?username=carobasjp&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Projetos em Destaque
+
 </div>
 
 <div align="center">
-  <i>⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  
+[![AI Defense System](https://github-readme-stats.vercel.app/api/pin/?username=carobasjp&repo=ai-defense-system&theme=tokyonight&hide_border=true)](https://github.com/carobasjp/ai-defense-system)
+[![Full Stack App](https://github-readme-stats.vercel.app/api/pin/?username=carobasjp&repo=fullstack-app&theme=tokyonight&hide_border=true)](https://github.com/carobasjp/fullstack-app)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Atividade de Contribuição
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carobasjp&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Conecte-se Comigo
+
+<a href="https://linkedin.com/in/vitorcaroba">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/@caroba_vitor">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://instagram.com/vitorcaroba1">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discord.gg/Caroba_01#6990">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Citação Inspiradora
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Visualizações do Perfil
+<img src="https://komarev.com/ghpvc/?username=carobasjp&style=for-the-badge&color=0e75b6" />
+
+### ⚡ Powered by
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Powered%20by-Coffee-brown?style=for-the-badge&logo=coffee" />
+
+</div>
+
+---
+
+<div align="center">
+  
+*"O código é como o humor. Quando você tem que explicá-lo, é ruim."* - Cory House
+
+**🚀 Sempre em busca de novos desafios e oportunidades de colaboração!**
+
 </div>
