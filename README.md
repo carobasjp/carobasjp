@@ -56,54 +56,71 @@ const vitorCaroba = {
 
 <div align="center">
 
-## 📊 Performance Analytics
+## 🎮 Jogue Comigo! - Jogo da Velha Interativo
+
+**Clique nos quadrados para jogar! Você é ❌, eu sou ⭕**
 
 <table>
 <tr>
-<td width="50%">
-
-**📈 Estatísticas Gerais**
-<img src="https://github-readme-stats.vercel.app/api?username=carobasjp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 1">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=1" />
+</a>
 </td>
-<td width="50%">
-
-**🔥 Sequência de Commits**
-<img src="https://github-readme-streak-stats.herokuapp.com?user=carobasjp&theme=tokyonight&hide_border=true" />
-
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 2">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=2" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 3">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=3" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 4">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=4" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 5">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=5" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 6">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=6" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 7">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=7" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 8">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=8" />
+</a>
+</td>
+<td align="center" width="100" height="100">
+<a href="https://github.com/carobasjp/carobasjp/issues/new?title=Jogada&body=Posição: 9">
+<img src="https://via.placeholder.com/80x80/0D1117/58A6FF?text=9" />
+</a>
 </td>
 </tr>
 </table>
 
-**💻 Linguagens Mais Utilizadas**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+**🎯 Como Jogar:**
+1. Clique em qualquer quadrado numerado
+2. Isso abrirá uma issue no GitHub
+3. Eu responderei com minha jogada!
+4. Vamos ver quem ganha! 🏆
 
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Métricas de Desenvolvimento
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carobasjp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carobasjp&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/>
-</div>
-
-### 📊 Contribuições Detalhadas
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carobasjp&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20Contribuição%20nos%20Últimos%20Meses" />
-
-### 🏅 Conquistas & Marcos
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/carobasjp?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)
-![GitHub User's stars](https://img.shields.io/github/stars/carobasjp?style=for-the-badge&logo=github&logoColor=white&color=0e75b6)
-![Years Badge](https://badges.pufler.dev/years/carobasjp?style=for-the-badge&color=0e75b6)
-![Repos Badge](https://badges.pufler.dev/repos/carobasjp?style=for-the-badge&color=0e75b6)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/carobasjp?style=for-the-badge&color=0e75b6)
-
-</div>
+**📊 Placar Atual:** Você: 0️⃣ | Vitor: 0️⃣ | Empates: 0️⃣
 
 </div>
 
@@ -115,15 +132,32 @@ const vitorCaroba = {
 
 </div>
 
-<div align="center">
-  
-[![AI Defense System](https://github-readme-stats.vercel.app/api/pin/?username=carobasjp&repo=ai-defense-system&theme=tokyonight&hide_border=true)](https://github.com/carobasjp/ai-defense-system)
-[![Full Stack App](https://github-readme-stats.vercel.app/api/pin/?username=carobasjp&repo=fullstack-app&theme=tokyonight&hide_border=true)](https://github.com/carobasjp/fullstack-app)
+```javascript
+const featuredProjects = [
+    {
+        name: "🛡️ AI Defense System",
+        description: "Sistema de defesa aérea com IA avançada",
+        tech: ["Python", "TensorFlow", "Computer Vision"],
+        status: "🚧 Em Desenvolvimento"
+    },
+    {
+        name: "🌐 Full Stack Platform",
+        description: "Plataforma completa com React e Node.js",
+        tech: ["React", "Node.js", "PostgreSQL", "Docker"],
+        status: "✅ Produção"
+    },
+    {
+        name: "🤖 ML Model Trainer",
+        description: "Ferramenta para treinar modelos de ML",
+        tech: ["Python", "PyTorch", "FastAPI"],
+        status: "🔄 Atualizando"
+    }
+];
 
-</div>
+console.log("Projetos carregados com sucesso! 🚀");
+```
 
 ---
-
 
 <div align="center">
 
@@ -148,9 +182,58 @@ const vitorCaroba = {
 
 <div align="center">
 
+## 💡 Curiosidades sobre Programação
+
+<details>
+<summary>🧠 Clique para ver uma curiosidade aleatória!</summary>
+
+<br>
+
+**💭 Você sabia?**
+
+O primeiro "bug" de computador foi literalmente um inseto! Em 1947, Grace Hopper encontrou uma mariposa presa em um relé do computador Harvard Mark II. Ela colou o inseto no livro de registros com a nota: "First actual case of bug being found" (Primeiro caso real de bug sendo encontrado).
+
+**🔍 Fato Técnico:**
+- O JavaScript foi criado em apenas 10 dias por Brendan Eich em 1995
+- Python foi nomeado em homenagem ao grupo de comédia "Monty Python"
+- O primeiro código "Hello, World!" apareceu em 1972 no livro "The C Programming Language"
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 💭 Citação Inspiradora
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 Arte ASCII do Dia
+
+```
+    ╔══════════════════════════════════════╗
+    ║           VITOR CAROBA               ║
+    ║     ┌─────────────────────────┐      ║
+    ║     │  { "code": "life" }     │      ║
+    ║     │  while(alive) {         │      ║
+    ║     │    learn();             │      ║
+    ║     │    code();              │      ║
+    ║     │    improve();           │      ║
+    ║     │  }                      │      ║
+    ║     └─────────────────────────┘      ║
+    ║                                      ║
+    ║  🚀 Building the future, one        ║
+    ║     line of code at a time!         ║
+    ╚══════════════════════════════════════╝
+```
 
 </div>
 
@@ -174,5 +257,7 @@ const vitorCaroba = {
 *"O código é como o humor. Quando você tem que explicá-lo, é ruim."* - Cory House
 
 **🚀 Sempre em busca de novos desafios e oportunidades de colaboração!**
+
+**🎮 Não esqueça de jogar o jogo da velha acima! Vamos ver quem é melhor! 😄**
 
 </div>
